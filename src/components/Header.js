@@ -27,7 +27,7 @@ console.log(getdata);
       <Navbar bg="dark" variant="dark" style={{ height: "60px" }}>
         <Container>
           <NavLink to="/" className="text-decoration-none text-light">
-            Add to Cart
+            Add to Cart page
           </NavLink>
           <Nav className="mr-auto">
             <NavLink to="/" className="text-decoration-none text-light">

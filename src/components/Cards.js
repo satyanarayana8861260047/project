@@ -22,6 +22,10 @@ dispatch(ADD(e));
   return (
     <div className="container mt-3">
       <h2 className="text-center">Add to cart Projects</h2>
+      <div>
+        <h1>hello</h1>
+        <h2>hello</h2>
+      </div>
 
       <div className="row d-flex justify-content-center align-items-center">
         {data.map((element, id) => {
